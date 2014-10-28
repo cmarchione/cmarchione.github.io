@@ -1,2 +1,8 @@
 title: Chris' Website
 email: Cmarchione@albany.edu
+description: Chris' webpage
+url: cmarchione.github.io
+github_username: cmarchione
+
+markdown: kramdown
+permalink: pretty
